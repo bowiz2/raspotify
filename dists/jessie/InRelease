@@ -1,0 +1,35 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Codename: jessie
+Date: Mon, 07 Aug 2017 02:23:32 UTC
+Architectures: armhf
+Components: main
+MD5Sum:
+ aec8fa7688bd179000fb8ee24b287cd8 611 main/binary-armhf/Packages
+ 4d97dc89632671a9df09066f37b31b71 428 main/binary-armhf/Packages.gz
+ 12961a515ba3ee17d1840d76faa90087 36 main/binary-armhf/Release
+SHA1:
+ 1b90658aebb0c96f991012820e85d480dba9f592 611 main/binary-armhf/Packages
+ 20bbcc3143baf5d4074d036617861e243b64a976 428 main/binary-armhf/Packages.gz
+ 4922cd1d17e2d85529687db8f44c58948bc42f94 36 main/binary-armhf/Release
+SHA256:
+ 502e5b2ee927be71a5780b3d73104d897b5e22797031925df05298ca61c933ed 611 main/binary-armhf/Packages
+ 36d6af4ea55d715e4b4d7be742152912f932a9ebee258e66b3d9b8d82ce1cecf 428 main/binary-armhf/Packages.gz
+ adaec1ced8009abfb20fa51310087da3b7332d5f3b2c5edfda188ddffe634677 36 main/binary-armhf/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEELMm4D1rit6zv8royCRRvL3lTpFUFAlmHzycACgkQCRRvL3lT
+pFVcvhAAkolKh5KoNZ3l8PtjzGGgD/EumXT+Tr37r7x2eHwkRGl1TYZRua9eGI6M
+DjpTj+lCiqtK9gMireUkqeJw050KXodaq5M5J1Phn/6ZMUcV68gV/EqG073z861F
+bC/e80egznF2S2YAvr2uZdBbqdhyyznParKZKnPQ4XMTLBurbxdDY4TYzKF18WXT
+qmCde6/q4FSxoqq+brRTQ+tfxQkwMkqi2ImuWhHcRcwptM3o0QFiAiICv+yd56XB
+cESIQZ9ImJ+2PQl4nlAZGSlfaedY5QAN7Vhm6Q5vEaAERtR0j/t9CJ8DYJzpBe/j
+c/V0NGaEXUUoUCdjWFBbZ6smdQYQClfus650JnS2B4DIQvAJyy1WihiKhWZPyN+V
+v6WOrH45HpKPn3xI+ypVonMi7JBhiS0ILh4+MELs/hyhAx1xMT5RKLuHbAuavjl7
+HW96rcQIU2/p1+Q9Wd/x4PDITr8yLJmfkdzCK7LSze1PCbKqi/uGFrmmVGvWmdi5
+Pirgx9cl78szVHkRPBI5ITmr3+vD4hU69SBa8eTgITy51mD7Wm6VvGy89tDWEuN8
+y43+XdpP7Q4rIZOgciIvTcPJz0W0bN7f3pjA38oy+H327y7MWnCJgDnS2dQPAWxe
+gdjJ05A0FFpZcISoO6kFBioZdjP6cBFCuJZXJ7UYlf0IqirsLH0=
+=dH8U
+-----END PGP SIGNATURE-----
